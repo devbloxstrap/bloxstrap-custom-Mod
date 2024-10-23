@@ -1,0 +1,10 @@
+{
+  "multiInstance": true,
+  "launchOptions": {
+    "graphics": "High",
+    "fullscreen": false
+  },
+  "uiSettings": {
+    "theme": "dark"
+  }
+}
